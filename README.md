@@ -1,2 +1,3 @@
 # python_language
-learning python language
+my first repository.
+learning about python language.
